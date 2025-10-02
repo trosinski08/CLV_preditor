@@ -1,0 +1,13 @@
+# Ignore TODO list
+TODO.md
+
+# Typical OS / editor files
+.vscode/
+*.log
+
+# Python
+venv/
+__pycache__/
+
+# Node
+node_modules/

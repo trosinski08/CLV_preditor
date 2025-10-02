@@ -1,0 +1,1 @@
+Banking CLV Dataset Info\nCreated: 2025-10-02 21:44:22.317171\nSource: Kaggle: barelydedicated/bank-customer-churn-modeling\nMain dataset shape: (10000, 14)\nColumns: ['RowNumber', 'CustomerId', 'Surname', 'CreditScore', 'Geography', 'Gender', 'Age', 'Tenure', 'Balance', 'NumOfProducts', 'HasCrCard', 'IsActiveMember', 'EstimatedSalary', 'Exited']\n
