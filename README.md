@@ -133,6 +133,22 @@ CLV_project/
 #### Final Segmentation
 ![Final Segmentation Dashboard](results/final_segmentation_dashboard.png)
 
+### KPI Snapshot
+Concise high‑level KPI panel summarizing portfolio concentration and action segments: see `results/kpi_snapshot.md` for full table.
+
+| Metric | Value |
+|--------|-------|
+| Total Customers | 8,653 |
+| Modeled (CLV > 0) | 3,160 (36.5%) |
+| Avg 12M CLV (modeled) | $5.39 |
+| Total 12M CLV (modeled) | $46,653 |
+| Top 20% Value Concentration | ~78% of 12M CLV |
+| Largest Action Segment | Low Value Churn (63.5%) |
+| High-Value At-Risk Segment | Save High-Value (28.5%) |
+| High Nurture Leverage | Nurture High (5.1% count, outsized value) |
+
+Strategic focus: Retain Save High-Value, upscale Nurture High, automate Low Value Churn servicing, low-cost experimentation for Rescue Medium.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
